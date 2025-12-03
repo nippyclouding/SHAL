@@ -29,7 +29,7 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 
    파일명 규칙: 문제번호_이름.java 예시: 1000_이상원
    
-⚠️ 주의: 기존 문제 파일은 수정하지 않고, 새로운 파일만 추가하기
+
 
 3️⃣ 로컬에서 커밋 (commit) 
   git add . git commit -m "1001_이상원" 
