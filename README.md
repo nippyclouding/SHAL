@@ -1,4 +1,4 @@
-# SHAL
+# SH Algorithm
 
 Notion Link : https://www.notion.so/SW-2b7319fec6fe807b989df98e8ee13815?pvs=12 
 
@@ -13,7 +13,7 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 2. 로컬 컴퓨터로 저장소 클론
 
    
-   git clone https://github.com/SHSWAlgorithm.git
+   git clone https://github.com/SHAL.git
    
    cd SHSWAlgorithm
    
