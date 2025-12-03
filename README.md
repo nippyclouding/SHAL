@@ -15,7 +15,7 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
    
    git clone https://github.com/SHAL.git
    
-   cd SHSWAlgorithm
+   cd SHAL
    
 <이후 매 번 업로드할 때> 
 
