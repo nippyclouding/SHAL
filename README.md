@@ -30,7 +30,9 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 
 3️⃣ 로컬에서 커밋 (commit) 
   git add . git commit -m "1001_이상원" 
-  커밋 메시지 예시: 백준 문제 번호 + 이름 // 백준 문제가 아닌 프로그래머스라면 "평균값 구하기_이상원" 처럼 문제 이름 + 이름 으로 업로드하기
+  커밋 메시지 예시: 백준 문제 번호 + 이름 
+  
+  백준 문제가 아닌 프로그래머스라면 "평균값 구하기_이상원" 처럼 문제 이름 + 이름 으로 업로드하기
   
 4️⃣ 원격 저장소에 반영 (push)
 1. 다시 한번 최신 상태로 업데이트
