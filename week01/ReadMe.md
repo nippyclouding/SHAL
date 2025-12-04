@@ -5,3 +5,6 @@ https://www.notion.so/1-25-12-03-2bce6b14c55d80c994eae1d46b387436?source=copy_li
 
 이상원
 https://hypnotic-mayonnaise-5c3.notion.site/2ba319fec6fe80a28911daf2e766ec69
+
+최범근
+https://www.notion.so/WEEK1-2bfc9400dae380829df1c93e683deaf3?source=copy_link
