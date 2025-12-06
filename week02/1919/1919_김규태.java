@@ -28,3 +28,6 @@ public class Main{
         return count;
     }
 }
+
+
+// 이상원 : count += i > 0 ? i : -i; 부분을 count += Math.abs(i)로 쓰면 조금 더 직관성있을 것 같습니다 ! 
